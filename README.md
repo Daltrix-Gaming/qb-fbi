@@ -7,7 +7,7 @@ in
 QBShared.Jobs={
 	    ['fbi'] = {
         label = 'Federal Investigation Bureau',
-        defaultDuty = true,
+        defaultDuty = true, 		
         offDutyPay = false,
         grades = {
             ['0'] = {
